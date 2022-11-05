@@ -7,6 +7,7 @@ To see all of the projects, navigate to the 'Repositories' tab.
 
 To run the code, first check if it contains Java, Python or HTML/Javascript file types, and then follow the related instructions below.
 
+
 For HTML (No software required!):
   - Click on the repository name
   - Click on the big green button that says 'Code'
