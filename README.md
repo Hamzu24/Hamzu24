@@ -3,7 +3,7 @@ I'm interested in Javascript, Python and Java, but am constantly learning new th
 
 On my profile you can find most of my completed or concept projects that I've created since I was 11, containing well over 7500 lines of code in total.
 
-To see all of the projects, navigate to the 'Repositories' tab.
+To see all of the projects, navigate to the 'Repositories' tab. To see the projects I spent the most time on, navigate to the 'Stars' tab.
 
 To run the code, first check if it contains Java, Python or HTML/Javascript file types, and then follow the related instructions below.
 
